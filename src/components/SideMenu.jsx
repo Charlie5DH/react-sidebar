@@ -74,7 +74,7 @@ const SideMenu = (props) => {
       <div className="top-section">
         <div className={`logo ${inactive ? "inactive" : ""}`}>
           <NavLink to={"/"} className="link">
-            {inactive ? <span>VA</span> : <span>ViberAir</span>}
+            {inactive ? <span>MC</span> : <span>MyCompany</span>}
           </NavLink>
         </div>
 
